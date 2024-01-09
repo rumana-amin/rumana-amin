@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rumana Amin</h1>
-<h3 align="center">A data analyst and web scrapper from Bangldesh</h3>
+<h3 align="center">A data analyst and web scrapper from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Data Science.**
 
