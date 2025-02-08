@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rumana Amin</h1>
-<h3 align="center">A data analyst and web scrapper from Bangladesh</h3>
+<h3 align="center">A data analyst from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Data Science.**
+- 🌱 I’m currently learning **Data Engineering.**
 
 - 👯 I’m looking to collaborate on **data analysis projects; volunteer or otherwise.**
 
